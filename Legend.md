@@ -1,0 +1,6 @@
+## Unicode Symbols
+
+- ↑
+- ↓
+- ←
+- →

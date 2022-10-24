@@ -1,0 +1,129 @@
+{
+  "main": {
+    "id": "46642c6dde75d832",
+    "type": "split",
+    "children": [
+      {
+        "id": "423268e145f5302e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d9b8e8a5d2cb650",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Movies/Memory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "09c1bce1b30ec62f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "96834a842de48280",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "bb873529218417ee",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b62c508a07db2dd6",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "2ff486e54c093530",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "4764a4bdeaff95a1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "34dbf7917419b04e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Movies/Memory.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "a9e8b2e21b34873d",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Movies/Memory.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "00197e212bf44490",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Movies/Memory.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "9d9b8e8a5d2cb650",
+  "lastOpenFiles": []
+}

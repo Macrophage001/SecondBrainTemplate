@@ -1,0 +1,51 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#web-development",
+      "color": {
+        "a": 1,
+        "rgb": 5431401
+      }
+    },
+    {
+      "query": "tag:#functional-programming",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#projects",
+      "color": {
+        "a": 1,
+        "rgb": 16384100
+      }
+    },
+    {
+      "query": "file:00",
+      "color": {
+        "a": 1,
+        "rgb": 16766208
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.04427083333333,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.5,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.25883865621816543,
+  "close": false
+}

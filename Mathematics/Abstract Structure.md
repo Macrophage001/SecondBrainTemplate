@@ -1,0 +1,8 @@
+---
+tags: ['mathematics/abstract-structure']
+type: 'definition'
+src: 'https://en.wikipedia.org/wiki/Abstract_structure'
+---
+
+> An **abstract structure** is an abstraction that might be of the [geometric](https://en.wikipedia.org/wiki/Euclidean_space "Euclidean space") spaces or a set structure, or a [hypostatic abstraction](https://en.wikipedia.org/wiki/Hypostatic_abstraction "Hypostatic abstraction") that is defined by a set of mathematical theorems and laws, properties and relationships in a way that is logically if not always historically independent [[1]](https://en.wikipedia.org/wiki/Abstract_structure#cite_note-1) of the structure of contingent experiences, for example, those involving physical objects. Abstract structures are studied not only in [logic](https://en.wikipedia.org/wiki/Logic "Logic") and [mathematics](https://en.wikipedia.org/wiki/Mathematics "Mathematics") but in the fields that apply them, as [computer science](https://en.wikipedia.org/wiki/Computer_science "Computer science") and [computer graphics](https://en.wikipedia.org/wiki/Computer_graphics "Computer graphics"), and in the studies that reflect on them, such as [philosophy](https://en.wikipedia.org/wiki/Philosophy "Philosophy") (especially the [philosophy of mathematics](https://en.wikipedia.org/wiki/Philosophy_of_mathematics "Philosophy of mathematics")). Indeed, modern mathematics has been defined in a very general sense as the study of abstract structures (by the [Bourbaki](https://en.wikipedia.org/wiki/Nicolas_Bourbaki "Nicolas Bourbaki") group: see discussion there, at [algebraic structure](https://en.wikipedia.org/wiki/Algebraic_structure "Algebraic structure") and also structure).
+> <cite> - Wikipedia </cite> 

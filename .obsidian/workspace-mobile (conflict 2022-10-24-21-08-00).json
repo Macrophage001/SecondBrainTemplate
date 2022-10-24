@@ -1,0 +1,134 @@
+{
+  "main": {
+    "id": "df6a1f476947f69f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0182e3f3e90d84e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35d9eef99acadea8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diary/Daily Notes/2022-10-24.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "70e389c987423812",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c9a201bc7c25d836",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "f0c20bfbd3928904",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "f7762fd67d1ae787",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "d285933d0bcbdf77",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "c5bff6c2930b9ef7",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ddc5b03611d4300f",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Diary/Daily Notes/2022-10-24.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "94a0cd840eb3e61b",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Diary/Daily Notes/2022-10-24.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "2e5030f8e80d2f4c",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Diary/Daily Notes/2022-10-24.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "35d9eef99acadea8",
+  "lastOpenFiles": [
+    "Diary/Daily Notes/2022-10-23.md",
+    "Diary/Daily Notes/2022-10-24.md",
+    "Movies/Memory.md",
+    "00 Daily Notes Hub.md"
+  ]
+}

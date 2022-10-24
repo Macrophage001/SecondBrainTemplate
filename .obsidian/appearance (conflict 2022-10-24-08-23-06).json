@@ -1,0 +1,12 @@
+{
+  "accentColor": "",
+  "translucency": false,
+  "enabledCssSnippets": [
+    "table"
+  ],
+  "monospaceFontFamily": "FiraCode NF",
+  "textFontFamily": "",
+  "cssTheme": "Typewriter",
+  "theme": "moonstone",
+  "baseFontSize": 17
+}
